@@ -7,7 +7,7 @@ This is a simple Rock, Paper, Scissors game implemented in JavaScript using Math
 ## How to Play
 
 1. Open the `index.html` file in a web browser. Or use [this](https://nec0ti.github.io/Rock-Paper-Scissors/)
- link: 
+ link.
 2. Enter the names of Player 1 and Player 2.
 3. Each player selects either rock, paper, or scissors.
 4. The winner of the round is determined based on the classic Rock, Paper, Scissors rules:
