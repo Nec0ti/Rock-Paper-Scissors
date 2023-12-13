@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple Rock, Paper, Scissors game implemented in JavaScript using Math.random(). The game allows two players to compete against each other by choosing one of the three options: rock, paper, or scissors.
+This is a simple Rock, Paper, Scissors game implemented in JavaScript using Math.random().
 
 ## How to Play
 
