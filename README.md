@@ -16,7 +16,7 @@ This is a simple Rock, Paper, Scissors game implemented in JavaScript using Math
 
 ## Implementation Details
 
-- The game uses the `Math.random()` function to randomly generate the choices for both players.
+- The game uses the `Math.random()` function to randomly generate the choices for AI.
 - The game logic is implemented in JavaScript, and the HTML file (`index.html`) handles the user interface.
 - The `rps.js` file contains the main game logic.
 - The styles are defined in the `rps.css` file.
